@@ -20,6 +20,10 @@ Installation is just dropping the .dll file into the plugins folders bepin creat
 
 ---
 
-Find me on twitter: [@Solidmiki21](https://twitter.com/solidmiki21)
-And on discord: @Solidmiki21#6992
+Find me on twitter: [@Solidmiki21](https://twitter.com/solidmiki21).  
+And discord: @Solidmiki21#6992.
+
+---
+
+
 Kudos to my friend Alfonsohh for the new icon.
