@@ -17,3 +17,9 @@ errors in the github page (create a new issue, suggestions appreciated aswell ^.
 BEPIN AS WELL AS R2API ARE BOTH REQUIRED FOR THE MOD TO WORK.
 
 Installation is just dropping the .dll file into the plugins folders bepin creates.
+
+---
+
+Find me on twitter: [@Solidmiki21](https://twitter.com/solidmiki21)
+And on discord: @Solidmiki21#6992
+Kudos to my friend Alfonsohh for the new icon.
