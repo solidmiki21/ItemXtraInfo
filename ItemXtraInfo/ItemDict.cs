@@ -46,7 +46,7 @@ namespace ItemXtraInfo
                 {ItemIndex.UtilitySkillMagazine, itemNum => 2 * itemNum},
                 {ItemIndex.BarrierOnOverHeal, itemNum => itemNum},
                 //La formula está mal loco
-                {ItemIndex.Bear, itemNum => (1 - 1/(0.15 * itemNum + 1)*100)},
+                {ItemIndex.Bear, itemNum => (1 - 1/(0.15 * itemNum + 1)) * 100},
                 {ItemIndex.Medkit, itemNum => 10 * itemNum},
                 {ItemIndex.EnergizedOnEquipmentUse, itemNum => 4 + 4*itemNum},
                 {ItemIndex.ExecuteLowHealthElite, itemNum => 15 + 5*itemNum},

@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace ItemXtraInfo
 {
     [BepInDependency("com.bepis.r2api")]
-    [BepInPlugin("com.solidmiki21.ItemExtraInfo", "ItemExtraInfo", "0.2.0")]
+    [BepInPlugin("com.solidmiki21.ItemExtraInfo", "ItemExtraInfo", "0.2.2")]
     public class ItemExtraInfo : BaseUnityPlugin
     {
         public void Awake()
